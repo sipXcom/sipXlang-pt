@@ -6,7 +6,7 @@ Release: @PACKAGE_REVISION@
 # do not build a debuginfo package
 %define debug_package %{nil}
 
-Summary: sipXecs in Portuguese
+Summary: sipXecs in Portuguese 
 License: L-GPL
 Group: Telecommunications
 Vendor: sipXcom
