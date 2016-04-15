@@ -92,7 +92,7 @@
 <property name="name" value="Ligue gratis azul" />
 <property name="description" value="marcacao gratuita azul" />
 <property name="areaCodes" value="808" />
-<property name="permissionName" value="LocalDialing" />
+<property name="permissionName" value="TollFree" />
 </bean>
 <bean id="pt.lowcostRule" parent="defaultLocalRule" singleton="false">
 <property name="name" value="Ligue gratis 809" />
